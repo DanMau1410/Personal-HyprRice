@@ -104,6 +104,13 @@
 		"on-click": "xdg-open https://weather.com/en-IN/weather/today/l/a0ec7f05350c32fe86db89502274be7d3438ca98145c895c88f3ef6502f209cc"
 		// "format-alt": "{alt}",
 	},
+	// "custom/weather": {
+	// 	"exec": "${HOME}/.config/waybar/scripts/get_weather.sh Lubbock+USA",
+	// 	"return-type": "json",
+	// 	"format": "{}",
+	// 	"tooltip": true,
+	// 	"interval": 3600
+	// }.
 	"pulseaudio": {
 		"format": "{volume}% {icon}",
 		"format-bluetooth": "{volume}% {icon}",
