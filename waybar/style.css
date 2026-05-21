@@ -1,5 +1,7 @@
 /* Original config file PATH: /etc/xdg/waybar/style.css */
 
+@import "colors.css";
+
 * {
     border: none;
     border-radius: 20px;
